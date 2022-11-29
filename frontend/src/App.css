@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+span{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0.5rem;
+}
+
+.konyvek{
+    width:100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.osszes, .kolcsonzott{
+    width: 50%;
+}
+
+
